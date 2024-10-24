@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-Im fwpirate (Kevin) and i mostly do lowlevel programming
+Im fwpirate and i mostly do lowlevel programming, this is my new github account, try to find my old one :^)
